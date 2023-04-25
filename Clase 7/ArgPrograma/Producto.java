@@ -19,4 +19,9 @@ public class Producto {
 		return precio;
 	}
 
+	public boolean hayStock() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }
